@@ -1,0 +1,12 @@
+Wed Feb 14 15:51:22 AEDT 2018 
+configure: error: Package requirements (python-3.5) were not met:
+
+No package 'python-3.5' found
+
+Consider adjusting the PKG_CONFIG_PATH environment variable if you
+installed software in a non-standard prefix.
+
+Alternatively, you may set the environment variables PYTHON_CFLAGS
+and PYTHON_LIBS to avoid the need to call pkg-config.
+See the pkg-config man page for more details.
+
